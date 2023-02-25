@@ -53,7 +53,7 @@ jobs:
     environment:
       name: 'Development'
 
-Setup a Go environment and add it to the PATH
+  # Setup a Go environment and add it to the PATH
     steps:
     
     #Download the publish files created in previous job
